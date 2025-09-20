@@ -1,7 +1,7 @@
 using UnityEngine;
 using TMPro;
 
-public class WordManager : MonoBehaviour
+public class WordsManager : MonoBehaviour
 {
     public string[] wordPool = { "Deadline", "Clock", "Paper", "Idea", "Project", "Stress", "Notebook", "Coffee" };
 
