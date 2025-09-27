@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wood taple_0: 7554267501805317386
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
